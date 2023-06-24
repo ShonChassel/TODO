@@ -9,7 +9,7 @@ ToDo is a  List app.
 ✅ The app is fully responsive and it adapts to any screen size.  
 ✅ The app was developed while considering the Web Content Accessibility Guidelines (WCAG).  
 <br/>
-:link: Link to the live project: [Link](https://air-bxb.onrender.com/)  
+:link: Link to the live project: [Link](https://todo-eta-sable.vercel.app/)  
 <br/>
 <img src='todo.PNG'/>
 <br/>
