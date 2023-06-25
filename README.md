@@ -13,18 +13,15 @@ ToDo is a  List app.
 <img src='todo.PNG'/>
 <br/>
 
-## My Process:
-
-I developed the project over the course of approximately A week and a half. In order to learn as much as I can from the development of this project, I implemented certain features from scratch including accessible and scrollable tabs, a carousel functionality, and infinite loading.
 
 ### Tools:
 
 After designing a prototype of the application using Adobe XD, I started developing the app using the following technologies:
 
-- Vue.js. 
+- React. 
 - javascript.
+- Node.js.
 
 - SCSS modules (CSS grid & CSS Flexbox & Media queries)
-- Vue router, Font Awesome (Icons)
 
 
